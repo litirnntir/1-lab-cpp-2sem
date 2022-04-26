@@ -1,3 +1,3 @@
-/Users/aleksandra/CLionProjects/lab-cpp-2sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/aleksandra/CLionProjects/lab-cpp-2sem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/aleksandra/CLionProjects/lab-cpp-2sem/cmake-build-debug/CMakeFiles/lab_cpp_2sem.dir
+/Users/aleksandragorbuncova/CLionProjects/lab-cpp-2sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aleksandragorbuncova/CLionProjects/lab-cpp-2sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksandragorbuncova/CLionProjects/lab-cpp-2sem/cmake-build-debug/CMakeFiles/lab_cpp_2sem.dir
